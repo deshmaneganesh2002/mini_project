@@ -20,7 +20,7 @@ Also providing like feature to like..
 3)Lgout user -> POST/logout
 
 *blogs
-1)add a new book -> POST/post
-2)view all user books -> GET/allposts
-3)update a book by ID -> POST/update/:id
-4)delete a book by ID -> POST/books/:id
+1)add a new blog -> POST/post
+2)view all user blogs -> GET/allposts
+3)update a blog by ID -> POST/update/:id
+4)delete a blog by ID -> POST/books/:id
